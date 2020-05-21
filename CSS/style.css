@@ -64,7 +64,7 @@ header #branding {
     float: left;
 }
 
-header #branding h1 {
+header #branding h2 {
     margin: 0;
 }
 
@@ -113,7 +113,7 @@ header a:hover {
     background: #35424a
 }
 
-#newsletter h1 {
+#newsletter h2 {
     float: left;
 }
 
@@ -194,7 +194,7 @@ footer {
 
 /* Media Queries */
 
-@media(max-width: 768px) {
+@media (max-width: 768px) {
     header #branding,
     header nav,
     header nav li,
