@@ -66,3 +66,11 @@ header a:hover {
     font-weight: bold;
     color: #cccccc;
 }
+
+
+/* Showcase */
+
+#showcase {
+    min-height: 400px;
+    background: url(../img/showcase.jpg) no-repeat 0 -400px;
+}
