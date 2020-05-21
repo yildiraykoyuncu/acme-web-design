@@ -197,7 +197,7 @@ __As a user I want to see a responsive website that displays well on different d
 
 ### Repo
 
-1. This user story developed on a branch named `9-services-page-quote-form`.
+1. This user story developed on a branch named `9-media-queries`.
 2. It was merged to master when the feature was finished.
 
 ### CSS
