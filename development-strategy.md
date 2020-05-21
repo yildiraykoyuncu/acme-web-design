@@ -29,8 +29,8 @@ __As a user I want to see company logo and a navigation menu at the top of the p
 
 ### Repo
 
-1- This user story was developed on a branch named `1-header`.
-2- It was merged to `master` when the feature was finished.
+1. This user story was developed on a branch named `1-header`.
+2. It was merged to `master` when the feature was finished.
 
 ### HTML
 
